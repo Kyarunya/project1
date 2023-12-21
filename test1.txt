@@ -1,6 +1,5 @@
 Васюкович Виктор 
 
-
 #include <iostream>
 using namespace::std;
 
